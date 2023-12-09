@@ -1,0 +1,4 @@
+2023-12-09 02:02:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PRESTAMOS" no encontrada
+Table "PRESTAMOS" not found; SQL statement:
+CREATE TABLE IF NOT EXISTS Multas (id INT PRIMARY KEY, fechaInicio INT, fechaFin INT, lector_id INT, prestamo_id INT, FOREIGN KEY (lector_id) REFERENCES Lectores(id), FOREIGN KEY (prestamo_id) REFERENCES Prestamos(id)) [42102-200]
