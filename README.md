@@ -2,6 +2,8 @@
 
 
 punto 1: LINK DEL DIAGRAMA 
+
+
 https://docs.google.com/document/d/1eXA0xwSPxlAElz4ILoHLiFYFU62z1PRaBHtre13f05M/edit?usp=sharing
 
 
